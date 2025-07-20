@@ -1,4 +1,4 @@
-# Student-ragistation-from
+# Student-Ragistation-from
 
 ## 📸 Preview
 
